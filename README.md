@@ -16,4 +16,4 @@ ${PROJECT}
 - Restormer_model.py -> Implementation of Restormer 
 
 
-[Project Description](MLIP-Comptetition/실기학피피티.pdf)
+[Project Description](./실기학피피티.pdf)
