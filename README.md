@@ -14,6 +14,3 @@ ${PROJECT}
 - Restormer_test.py -> Inference
 - Restormer_train.py -> Training Restormer 
 - Restormer_model.py -> Implementation of Restormer 
-
-
-[Project Description](.//실기학피피티.pdf)
